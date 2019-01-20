@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="kotlin_bilgiler">
+
+        <item>Python Nedir ?</item>
+        <item>Neden Python?</item>
+        <item>Neden Programlama Öğrenmek İsteyeyim?</item>
+        <item>Python Nasıl Telaffuz Edilir</item>
+        <item>Python Sözdizimi</item>
+        <item>Platform Desteği</item>
+        <item>Python Ve Programlama</item>
+        <item>Python Kullanan Şirketler</item>
+        <item>Pycharm Nedir ?</item>
+        <item>Python Öğrenmek Zor Mu ?</item>
+        <item>Python Nerelerde Kullanabilirim ?</item>
+        <item>Python İle Masaüstü Uygulamalar Geliştirebilir Miyim ?</item>
+        <item>Python İle Web Uygulamaları Geliştirebilir Miyim ?</item>
+        <item>Python,Nesne Yönelimli Bir Dildir Mi Yoksa İşlevsel Bir Dil Mi ?</item>
+        <item>Python çok mu yavaş? Olmak zorunda değil</item>
+        <item>Farklı Python Sürümleri</item>
+
+
+
+
+
+
+    </string-array>
+
+</resources>

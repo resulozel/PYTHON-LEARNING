@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.resulozel.python">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Hosgeldin">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".PythonHosgeldin">
+            <intent-filter>
+                <action android:name="com.resulozel.python.PYTHONHOSGELDIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".PythonNedirListe">
+            <intent-filter>
+                <action android:name="com.resulozel.python.PYTHONNEDIRLISTE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".PythonJava">
+            <intent-filter>
+                <action android:name="com.resulozel.python.PYTHONJAVA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".PythonDersleriListe">
+            <intent-filter>
+                <action android:name="com.resulozel.python.PYTHONDERSLERILISTE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".PythonOrnekleriListe">
+            <intent-filter>
+                <action android:name="com.resulozel.python.PYHTONORNEKLERILISTE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".PythonDersleri"
+            android:label="PythonDersleri"></activity>
+
+        <activity
+            android:name=".PythonNedir"
+            android:label="PythonNedir"></activity>
+
+        <activity
+            android:name=".PythonOrnekleri"
+            android:label="PythonOrnekleri"></activity>
+
+
+    </application>
+
+</manifest>

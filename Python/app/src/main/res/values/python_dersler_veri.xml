@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="ders_bilgiler">
+
+        <item>1# Hello World </item>
+        <item>2# Veri Tipleri</item>
+        <item>3# Matematiksel İşlemler</item>
+        <item>4# Klavyeden Veri Alma</item>
+        <item>5# Tip Dönüşümleri(Type Casting)</item>
+        <item>6# Aritmetik Operatörler</item>
+        <item>7# Mantıksal Operatörler</item>
+        <item>8# İf,Elif,Else Koşulları</item>
+        <item>9# Range(Loop)</item>
+        <item>10# For Döngüsü(Loop)</item>
+        <item>11# While Döngüsü(Loop)</item>
+        <item>12# Len Kavramı</item>
+        <item>13# Break</item>
+        <item>14# Continue</item>
+        <item>15# Count Metodu</item>
+        <item>16# Fonksiyonlar(Functions)</item>
+
+
+
+
+    </string-array>
+
+
+
+</resources>

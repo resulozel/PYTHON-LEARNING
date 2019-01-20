@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="kotlin_ornekler">
+        <item>1# Hello World </item>
+        <item>2# Değişken Türleri</item>
+        <item>3# Dört İşlem</item>
+        <item>4# Harf Notu Hesaplama</item>
+        <item>5# Klavyeden Veri Alma</item>
+        <item>6# Tür Dönüşümleri</item>
+        <item>7# Break-Continue</item>
+        <item>8# While Döngüsü</item>
+        <item>9# For Döngüsü</item>
+        <item>10# Fonksiyonlar</item>
+        <item>11# Aritmetik Operatörler</item>
+        <item>12# Overloading</item>
+        <item>13# Polymorphism</item>
+        <item>14# Try-Catch</item>
+        <item>15# Yaşı Girilen Kişinin Ehliyet Alıp Alamayacağını Gösteren Python Örneği</item>
+        <item>16# Arrays(Diziler)</item>
+        <item>17# Girilen Sayının Pozitif, Negatif, ya da 0 Olduğunu bulan program</item>
+        <item>18# 1-20 Arası 3′ e ve 5′ e tam bölünen sayıları bulan program</item>
+        <item>19#1 den Kullanıcının Girdiği Sayıya Kadar Sayıları Listeleyen program</item>
+        <item>20# Self</item>
+        <item>21# 1-20 arası Çift Sayıları Listeleyen program</item>
+        <item>22# Girilen Sayının Asal Sayı mı Değil mi olduğunu bulan program</item>
+        <item>23# Fonksiyon kullanarak yarıçapı girilen dairenin alanını hesaplayan program</item>
+
+    </string-array>
+
+</resources>
