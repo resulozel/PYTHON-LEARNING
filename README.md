@@ -1,10 +1,10 @@
 # PYTHON-LEARNING
-You can find many things about python.
-# PYTHON-LEARNING
-![Screenshot](https://github.com/rslozl/Spring-Boot-E-Commerce/blob/master/Screenshot%202020-08-05%20at%2021.59.03.png)
-
-![Screenshot](https://github.com/rslozl/Spring-Boot-E-Commerce/blob/master/Screenshot%202020-08-05%20at%2021.59.03.png)
-![Screenshot](https://github.com/rslozl/Spring-Boot-E-Commerce/blob/master/Screenshot%202020-08-05%20at%2021.59.03.png)
-![Screenshot](https://github.com/rslozl/Spring-Boot-E-Commerce/blob/master/Screenshot%202020-08-05%20at%2021.59.03.png)
-![Screenshot](https://github.com/rslozl/Spring-Boot-E-Commerce/blob/master/Screenshot%202020-08-05%20at%2021.59.03.png)
-![Screenshot](https://github.com/rslozl/Spring-Boot-E-Commerce/blob/master/Screenshot%202020-08-05%20at%2021.59.03.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-1.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-2.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-3.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-4.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-5.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-6.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-7.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-8.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-9.png)
