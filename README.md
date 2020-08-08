@@ -1,10 +1,3 @@
 # PYTHON-LEARNING
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-1.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-2.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-3.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-4.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-5.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-6.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-7.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-8.png)
-![Screenshot](https://raw.githubusercontent.com/rslozl/Python-Learning/master/p-9.png)
+![Screenshot]()
+
